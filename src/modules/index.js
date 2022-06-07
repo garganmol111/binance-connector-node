@@ -1,4 +1,5 @@
 module.exports.Blvt = require('./blvt')
+module.exports.Broker = require('./broker')
 module.exports.Bswap = require('./bswap')
 module.exports.SubAccount = require('./subAccount')
 module.exports.Market = require('./market')
